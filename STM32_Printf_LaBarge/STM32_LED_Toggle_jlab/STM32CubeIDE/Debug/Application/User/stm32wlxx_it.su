@@ -1,0 +1,7 @@
+C:/Users/j2lab/STM32CubeIDE/workspace_BlinkLED1/GPIO_IOToggle/Src/stm32wlxx_it.c:72:6:NMI_Handler	4	static
+C:/Users/j2lab/STM32CubeIDE/workspace_BlinkLED1/GPIO_IOToggle/Src/stm32wlxx_it.c:85:6:HardFault_Handler	4	static
+C:/Users/j2lab/STM32CubeIDE/workspace_BlinkLED1/GPIO_IOToggle/Src/stm32wlxx_it.c:100:6:MemManage_Handler	4	static
+C:/Users/j2lab/STM32CubeIDE/workspace_BlinkLED1/GPIO_IOToggle/Src/stm32wlxx_it.c:115:6:SVC_Handler	4	static
+C:/Users/j2lab/STM32CubeIDE/workspace_BlinkLED1/GPIO_IOToggle/Src/stm32wlxx_it.c:128:6:DebugMon_Handler	4	static
+C:/Users/j2lab/STM32CubeIDE/workspace_BlinkLED1/GPIO_IOToggle/Src/stm32wlxx_it.c:141:6:PendSV_Handler	4	static
+C:/Users/j2lab/STM32CubeIDE/workspace_BlinkLED1/GPIO_IOToggle/Src/stm32wlxx_it.c:154:6:SysTick_Handler	8	static
